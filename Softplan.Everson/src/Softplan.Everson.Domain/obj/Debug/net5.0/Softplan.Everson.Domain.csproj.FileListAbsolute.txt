@@ -1,0 +1,12 @@
+C:\projetos\evaluation\Softplan.Everson\src\Softplan.Everson.Domain\bin\Debug\net5.0\Softplan.Everson.Domain.deps.json
+C:\projetos\evaluation\Softplan.Everson\src\Softplan.Everson.Domain\bin\Debug\net5.0\Softplan.Everson.Domain.dll
+C:\projetos\evaluation\Softplan.Everson\src\Softplan.Everson.Domain\bin\Debug\net5.0\ref\Softplan.Everson.Domain.dll
+C:\projetos\evaluation\Softplan.Everson\src\Softplan.Everson.Domain\bin\Debug\net5.0\Softplan.Everson.Domain.pdb
+C:\projetos\evaluation\Softplan.Everson\src\Softplan.Everson.Domain\obj\Debug\net5.0\Softplan.Everson.Domain.csprojAssemblyReference.cache
+C:\projetos\evaluation\Softplan.Everson\src\Softplan.Everson.Domain\obj\Debug\net5.0\Softplan.Everson.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\evaluation\Softplan.Everson\src\Softplan.Everson.Domain\obj\Debug\net5.0\Softplan.Everson.Domain.AssemblyInfoInputs.cache
+C:\projetos\evaluation\Softplan.Everson\src\Softplan.Everson.Domain\obj\Debug\net5.0\Softplan.Everson.Domain.AssemblyInfo.cs
+C:\projetos\evaluation\Softplan.Everson\src\Softplan.Everson.Domain\obj\Debug\net5.0\Softplan.Everson.Domain.csproj.CoreCompileInputs.cache
+C:\projetos\evaluation\Softplan.Everson\src\Softplan.Everson.Domain\obj\Debug\net5.0\Softplan.Everson.Domain.dll
+C:\projetos\evaluation\Softplan.Everson\src\Softplan.Everson.Domain\obj\Debug\net5.0\ref\Softplan.Everson.Domain.dll
+C:\projetos\evaluation\Softplan.Everson\src\Softplan.Everson.Domain\obj\Debug\net5.0\Softplan.Everson.Domain.pdb

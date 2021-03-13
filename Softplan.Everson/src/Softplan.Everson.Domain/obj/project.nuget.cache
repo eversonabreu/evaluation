@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ABR5L6QL8+opYG0ij5OweoOwvyJVGLherkMXuvjK+Alf7/czl8pz5fUPK/3aG/IWasYbbg1/rzjCVYfECorb4A==",
+  "success": true,
+  "projectFilePath": "C:\\projetos\\evaluation\\Softplan.Everson\\src\\Softplan.Everson.Domain\\Softplan.Everson.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\everson.neris\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\everson.neris\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
