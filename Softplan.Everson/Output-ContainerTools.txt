@@ -1,0 +1,6 @@
+﻿========== Checking for Container Prerequisites ==========
+Verifying that Docker Desktop is installed...
+The required pre-requisites for container support in your project have not been met.
+Docker Desktop is not installed.
+========== Finished ==========
+
